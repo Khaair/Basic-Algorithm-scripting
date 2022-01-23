@@ -1,5 +1,7 @@
-function booWho(bool) {
-    return typeof bool === 'boolean';
-  }
-  
-  booWho(null);
+let x= 5
+
+let y = 7
+
+let z = x + y
+
+console.log(z)
